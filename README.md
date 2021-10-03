@@ -11,7 +11,4 @@ Currently improving my skills on React and SpringBoot(SpringMVC, SpringData, Spr
 LinkedIn: https://www.linkedin.com/in/mohammedfirass/
 
 
-<h3>And Finally</h3>
-
-[![mohammedFirass's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedFirass)](https://github.com/mohammedFirass/github-readme-stats)
 
