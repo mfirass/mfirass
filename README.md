@@ -8,11 +8,10 @@ Currently improving my skills on React and SpringBoot(SpringMVC, SpringData, Spr
 
 
 <h3>Find me elsewhere :earth_africa:</h3>
-LinkedIn: https://www.linkedin.com/in/mohammedfirass/
+LinkedIn: <a href="https://www.linkedin.com/in/mohammedfirass/" target="_blank">Mohammed Firass</a>
 
 
 <h3>And Finally</h3>
 
-[![mohammedFirass's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedFirass)](https://github.com/mohammedFirass/github-readme-stats)
 
-
+![mohammedFirass's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedFirass&show_icons=true&theme=tokyonight)
