@@ -4,7 +4,7 @@ I'm a SOFTWARE ENGINEER in the making, based in Fez Morocco, currently a Master 
 
 
 <h3>What I'm focusing on  👨‍💻 :boy:</h3>
-Currently improving my skills on React and SpringBoot(SpringMVC, SpringData, SpringSecurity)
+Currently improving my skills on React and SpringBoot(SpringMVC, SpringIoC, SpringData, SpringSecurity), and also studying in the master degree second year at the university.
 
 
 <h3>Find me elsewhere :earth_africa:</h3>
