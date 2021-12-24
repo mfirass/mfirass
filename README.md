@@ -5,9 +5,9 @@ I'm a SOFTWARE ENGINEER in the making, based in Fez Morocco, currently a Master 
 
 <h3>What I'm focusing on  👨‍💻 :boy:</h3>
 Currently improving my skills on : <br/>
+- JAVA <br/>
 - React <br/>
 - SpringBoot(SpringMVC, SpringIoC, SpringData, SpringSecurity) <br/>
-- ML different methods (PCA, HMM, SVM, KNN, ...) <br/>
 - And also studying in the second year master degree at the university <br/>
 
 
