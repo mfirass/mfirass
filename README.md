@@ -1,14 +1,19 @@
 <h3>Hey, I'm MOHAMMED FIRASS! :v:</h3>
 
-I'm a SOFTWARE ENGINEER in the making, based in Fez Morocco, currently a Master Degree student with a lot of interest in Distributed Systems concepts and a solid knowledge of Networks, as well as in Machine Learning and Business Intelligence. :star: :sparkles:
+Currently a Research Assistant (Intern) at Oracle, and also Master Degree student with a lot of interest in Distributed Systems concepts and a solid knowledge of Networks, as well as a basic understanding of various Machine Learning approaches. :star: :sparkles:
 
 
 <h3>What I'm focusing on  👨‍💻 :boy:</h3>
-Currently improving my skills on : <br/>
-- JAVA <br/>
-- React <br/>
+Currently working with: <br/>
+- JAVA and Python <br/>
+- Gradle <br/>
+- Sphinx (rST) <br/>
+- Jenkins <br/>
+- Git and Bitbucket <br/>
+Improving my skills on: <br/>
 - SpringBoot(SpringMVC, SpringIoC, SpringData, SpringSecurity) <br/>
-- And also studying in the second year master degree at the university <br/>
+
+And also doing my Master Degree Graduation Internship at Oracle <br/>
 
 
 <h3>Find me elsewhere :earth_africa:</h3>
