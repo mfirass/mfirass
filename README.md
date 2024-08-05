@@ -1,9 +1,9 @@
 <h3>Hey there, I'm <i>Mohammed</i>! :v:</h3>
 
-Currently a Software Engineer at Oracle with a strong interest in distributed systems concepts. :star: :sparkles:
+Currently a Software Engineer at Oracle with a strong interest in distributed systems concepts. :star:
 
 
-<h3>What is my focus  👨‍💻 :boy:</h3>
+<h3>What is my focus  👨‍💻</h3>
 - Backend engineering with Java envirements.<br/>
 - Build and CI/CD processes.<br/>
 - Software release processes. <br/>
