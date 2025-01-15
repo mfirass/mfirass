@@ -1,19 +1,15 @@
-<h3>Hey there, I'm <i>Mohammed</i>! :v:</h3>
+### Hey there, I'm *Mohammed*! :wave:
 
-Currently a Software Engineer at Oracle with a strong interest in distributed systems concepts. :star:
+I am a Software Engineer with nearly three years of experience at Oracle, specializing in backend development with Java and DevOps operations. My passion lies in designing robust and scalable systems while optimizing build automation and CI/CD pipelines for efficient software delivery.
 
+### My Areas of Expertise 👨‍💻
+- **Backend Development**: Proficient in Java with a focus on performance, scalability, and maintainability.  
+- **DevOps & CI/CD**: Skilled in automating build and deployment processes using technologies such as Jenkins, Kubernetes, and Docker.  
+- **Software Release Management**: Experience in managing end-to-end software release cycles in a cloud-based environment.  
 
-<h3>What is my focus  👨‍💻</h3>
-- Backend engineering with Java envirements.<br/>
-- Build and CI/CD processes.<br/>
-- Software release processes. <br/>
+### Connect with Me 🌐
+- **LinkedIn**: [Mohammed Firass](https://www.linkedin.com/in/mohammedfirass/)
 
+---
 
-<h3>Find me elsewhere :earth_africa:</h3>
-LinkedIn: <a href="https://www.linkedin.com/in/mohammedfirass/" target="_blank">Mohammed Firass</a>
-
-
-<h3>And Finally</h3>
-
-
-![mohammedFirass's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfirass&show_icons=true&theme=tokyonight)
+Thank you for stopping by!
